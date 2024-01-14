@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="gbk" />
+    <meta name="applicable-device" content="pc,mobile">
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="renderer" content="webkit|ie-comp|ie-stand" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title> 第二百九十八章 味道......还行？_逼我重生是吧_笔趣阁</title>
+    <meta name="keywords" content=" 第二百九十八章 味道......还行？" />
+    <meta name="Description" content="笔趣阁提供了幼儿园一把手创作的小说《逼我重生是吧》无错完整版的文字章节： 第二百九十八章 味道......还行？在线阅读。" />
+    <meta name="mobile-agent" content="format=html5;url=https://m.2biqu.com/biqu71153/36889891.html" />
+    <meta name="mobile-agent" content="format=xhtml;url=https://m.2biqu.com/biqu71153/36889891.html" />
+    <script>
+      if (navigator.userAgent.toLowerCase().match(/(ipod|iphone|android|coolpad|mmp|smartphone|midp|wap|xoom|symbian|j2me|blackberry|wince)/i) != null) {
+        let url = window.location.href;
+        window.location = url.replace("//www", "//m");
+      }
+    </script>
+</head>
+<body id="reader-m-fix">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/sweetalert/0.5.0/sweet-alert.css" />
+    <link rel="stylesheet" href="/static/css/style.css?9" />
+    <script src="https://apps.bdimg.com/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script src="/static/js/novel.js"></script>
+    <!--<script src="/static/js/apps.js"></script>-->
+    <div class="topbar">
+        <div class="topbar-con">
+            <div class="topbar-sethome">
+                <a href="javascript:winSetHP();">将本站设为首页</a>
+            </div>
+            <div class="topbar-addfavorite">
+                <a href="javascript:winAddFav()">收藏笔趣阁</a>
+            </div>
+            <div class="topbar-right">
+                <script>PCLogin()</script>
+            </div>
+        </div>
+    </div>
+    <div class="header">
+        <h1 class="logo"><a href="/">笔趣阁</a></h1>
+        <form action="/modules/article/search.php" class="search-form" id="form" method="post">
+            <input class="input-text input-key" id="keyWord" name="searchkey" type="text" maxlength="30"
+                   placeholder="可搜书名和作者，请您少字也别输错字。" />
+            <input type="button" class="btn-tosearch" value="搜索" title="搜索" onclick="check()" />
+        </form>
+        <div class="m-user" style="color:#fff">
+            <script>MLogin()</script>
+        </div>
+    </div>
+
+    <ul class="nav">
+        <li><a href="/">首页</a></li>
+        <li><a rel="nofollow" href="/modules/article/bookcase.php">永久书架</a></li>
+        <li><a href="/xuanhuanxiaoshuo/">玄幻奇幻</a></li>
+        <li><a href="/xiuzhenxiaoshuo/">武侠仙侠</a></li>
+        <li><a href="/dushixiaoshuo/">都市言情</a></li>
+        <li><a href="/lishixiaoshuo/">历史军事</a></li>
+        <li><a href="/kehuanxiaoshuo/">科幻灵异</a></li>
+        <li><a href="/wangyouxiaoshuo/">网游竞技</a></li>
+        <li><a href="/nvshengxiaoshuo/">女生频道</a></li>
+        <li><a href="/paihangbang/">排行榜单</a></li>
+        <li><a href="/collect/">收藏榜单</a></li>
+        <li><a href="/wanbenxiaoshuo/">完本小说</a></li>
+        <li><a rel="nofollow" href="/history.html">阅读记录</a></li>
+    </ul>
+    <ul class="m-nav">
+        <li><a href="/paihangbang/">排行</a></li>
+        <li><a href="/collect/">收藏</a></li>
+        <li><a href="/wanbenxiaoshuo/">完本</a></li>
+        <li><a href="/history.html">阅读记录</a></li>
+        <li><a href="/modules/article/bookcase.php" rel="nofollow">书架</a></li>
+    </ul>
+    <div class="m-setting">
+        <div class="font-box">
+            <span>字:</span>
+            <span id="fontbig" onclick="nr_setbg('big')">大</span>
+            <span id="fontmiddle" onclick="nr_setbg('middle')">中</span>
+            <span id="fontsmall" onclick="nr_setbg('small')">小</span>
+        </div>
+        <a onclick="nr_setbg('light')" class="btn-setbg" id="bgmode-light">关灯</a>
+        <a onclick="nr_setbg('huyan')" class="btn-setbg" id="bgmode-huyan">护眼</a>
+    </div>
+
+    <div class="container" id="container">
+        <div class="row row-detail row-reader">
+            <div class="layout layout-col1">
+                <div class="layout-tit xs-hidden">
+                    <a href="/">笔趣阁</a> > <a href="https://www.2biqu.com/biqu71153/" title="逼我重生是吧">逼我重生是吧</a> &gt;  第二百九十八章 味道......还行？
+                    <div class="reader-fun">
+                        <select class="select select-font">
+                            <option value="宋体,STSong">字体</option>
+                            <option value="方正启体简体,Apple LiGothic Medium">默认</option>
+                            <option value="黑体,STHeiti">黑体</option>
+                            <option value="楷体_GB2312,STKaiti">楷体</option>
+                            <option value="微软雅黑,STXihei">雅黑</option>
+                            <option value="方正启体简体,Apple LiGothic Medium">启体</option>
+                            <option value="宋体,STSong">宋体</option>
+                        </select>
+                        <select class="select select-color">
+                            <option value="#555555">颜色</option>
+                            <option value="#555555">默认</option>
+                            <option value="#9370DB">暗紫</option>
+                            <option value="#2E8B57">藻绿</option>
+                            <option value="#2F4F4F">深灰</option>
+                            <option value="#778899">青灰</option>
+                            <option value="#800000">栗色</option>
+                            <option value="#6A5ACD">青蓝</option>
+                            <option value="#BC8F8F">玫褐</option>
+                            <option value="#F4A460">黄褐</option>
+                            <option value="#F5F5DC">米色</option>
+                            <option value="#F5F5F5">雾白</option>
+                        </select>
+                        <select class="select select-size">
+                            <option value="#E9FAFF">大小</option>
+                            <option value="24px">默认</option>
+                            <option value="16px">16px</option>
+                            <option value="18px">18px</option>
+                            <option value="20px">20px</option>
+                            <option value="22px">22px</option>
+                            <option value="24px">24px</option>
+                            <option value="26px">26px</option>
+                            <option value="28px">28px</option>
+                            <option value="30px">30px</option>
+                            <option value="32px">32px</option>
+                        </select>
+                        <select class="select select-bg">
+                            <option value="#E9FAFF">背景</option>
+                            <option value="#E9FAFF">默认</option>
+                            <option value="#FFFFFF">白雪</option>
+                            <option value="#111111">漆黑</option>
+                            <option value="#FFFFED">明黄</option>
+                            <option value="#EEFAEE">淡绿</option>
+                            <option value="#CCE8CF">草绿</option>
+                            <option value="#FCEFFF">红粉</option>
+                            <option value="#EFEFEF">深灰</option>
+                            <option value="#F5F5DC">米色</option>
+                            <option value="#D2B48C">茶色</option>
+                            <option value="#C0C0C0">银色</option>
+                        </select>
+                        <span>
+                            <label for="readmode">夜间模式</label>
+                            <input type="checkbox" name="readmode" id="readermode" />
+                        </span>
+                    </div>
+                </div>
+                <div class="reader-main">
+                    <div class="section-opt">
+
+                        <a href="36887003.html">上一章</a>
+
+                        <span class="xs-hidden">← </span>
+                        <a href="https://www.2biqu.com/biqu71153/">章节列表</a>
+                        <span class="xs-hidden">→</span>
+
+                        <a href="36889894.html">下一章</a>
+
+                        <a rel="nofollow" href="javascript:;" onclick="addBookCase();">加入书架</a>
+                        <a href="javascript:;" onclick="javascript:addBookMark();" class="xs-hidden">加入书签</a>
+                    </div>
+                    <h1 class="title"> 第二百九十八章 味道......还行？</h1>
+                    <div class="hotcmd-box">
+                        <span class="red">热门推荐：</span>
+                        <a href="https://www.2biqu.com/biqu1046/">万相之王</a>，<a href="https://www.2biqu.com/biqu2590/">半仙</a>，<a href="https://www.2biqu.com/biqu2712/">赤心巡天</a>，<a href="https://www.2biqu.com/biqu2986/">深空彼岸</a>，<a href="https://www.2biqu.com/biqu2988/">光阴之外</a>，<a href="https://www.2biqu.com/biqu5156/">唐人的餐桌</a>，<a href="https://www.2biqu.com/biqu5251/">宿命之环</a>，<a href="https://www.2biqu.com/biqu5396/">择日飞升</a>，<a href="https://www.2biqu.com/biqu5398/">皓玉真仙</a>，<a href="https://www.2biqu.com/biqu5401/">修仙就是这样子的</a>，
+                    </div>
+                    <div class="content" id="content">
+                        &nbsp;&nbsp;&nbsp;&nbsp;店外，309寝室的三位义子完全听不懂逐哥在说什么。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“讲故事？”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;逐哥开这家店的目的，是讲故事？<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;什么跟什么嘛！<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;果然，成功人士的思维和我们是不一样的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他在想什么我们搞不懂。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他身上的那股逼味儿也是怎么都学不会。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;董冬想学程逐装逼已经很久了，但每次都达不到好的效果。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;如果是他的话，自己开的高端奶茶店生意这么好，早他妈一天到晚在外头吹嘘营业额和利润了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;结果，人家逐哥来了一句他从来都不在乎营业额，他根本就不关心。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;董冬由衷的开始觉得，自己一直对外吹牛说自己生活费一个月一万，属实太低级了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;事实上，程逐确实不在乎。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;【柚茶】一号店的意义，就是以后给资本们讲故事。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他现在做的事情，就是在给这个故事添墨。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;目前来看，效果不赖。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;想必以后啊，这些资本们会很愿意听。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;另一边，许劭和裴言已经走到了商场外，然后在冬日的寒风中，二人一起站在垃圾桶旁抽烟。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;如果说娃娃机店的生意好一些，他们绝对会笑盈盈的去和程逐打招呼，主动去聊天攀谈。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;可问题在于这家店的生意确实大不如前，而且是一个月比一個月差。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他们不管付出多大的努力，似乎都无法改变这个结果。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;这就成了一件很丢人的事情。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;而且对于许劭和裴言来说，两个人各有各的丢人法。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;许劭的丢人，是来自于章琪琪。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他心中对程逐的那股子怨愤，大半来自于这个自己苦追许久，一直都觉得只差临门一脚，但始终都没有机会迈出这一步的女人。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;现在好了，他连这种只差临门一脚的错觉都没有了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他能明显的感觉到章琪琪好像和他越走远了！<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;纯爱战士想破脑袋都想不明白：“为什么！为什么！！！”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;而裴言的丢人，则在于他也觉得自己是理工大学的校园风云人物。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;作为学生会的副会长，他觉得自己在学校里的名气是很大的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;事实上，学校里知道他的人确实是很多的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;但是，知道他的人越多，他在学校里就越丢人。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;没办法，他和程逐毕竟是在经营同一家店。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;而且这家店就开在理工大学的校门口。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;大家路过的时候，店里的生意是一目了然的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;那么，校友们自然会拿他和程逐作比较。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;更何况裴言之前还让人在贴吧上发过贴子。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他有一次去店里的时候，跟在两个男生后面，他们都没注意到裴言就在身后，聊得还挺大声。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“生意差了这么多，感觉店里的美女都变少了。”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“就是啊，本来他妈的每次路过都能看看美女，还挺开心的。”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“这个裴言就他妈会在学校里装逼，还什么学生会是锻炼人的地方，他怎么没把自己锻炼起来呢。”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;裴言在后面听着脸都绿了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;此刻，他和许劭站在垃圾桶旁，吸了一口烟后，费解地说着：“劭哥，他这家奶茶店的生意为什么又这么好，请托儿了吧。”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“不清楚，但确实热度一下子就被他弄起来了，和娃娃机店刚开业的时候差不多。”许劭吐了口烟。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他们想破脑袋都想不明白，凭啥啊。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;一杯奶茶卖这么贵就算了，还就开在星巴克对面，这不妥妥的地狱模式开局吗？<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;结果，硬是被他弄得风生水起。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;现在网络上晒【柚茶】的人实在是太多了，他们甚至每天都能在自己的朋友圈里刷到！<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;自己的失败固然可怕，但他人的成功更让人揪心。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;不是，到底凭什么火的啊！<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;搞的他俩都有点想去买一杯尝尝了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;一念至此，吸完烟的许劭和裴言还真看到了在周边倒卖奶茶的黄牛。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;二人对视了一眼，都看出了对方眼中的蠢蠢欲动。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“试试看，看看真的是产品过硬，还是纯靠造势。”最终，还是许劭拍板。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他走上前去，直接买了两杯。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;奶茶的价格本来就贵，再加上黄牛的加价，使得价格更是离谱。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;许劭还专门问了一下：“你们这样子卖，买的人多吗？”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“那不少的嘞！”黄牛笑眯眯地回答，从他脸上的笑容就可以看出，每天他妈的能挣不少钱。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;这让许劭和裴言更无语了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;妈的，怎么就能这么火啊！<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;从没听说过哪家奶茶店能火到养出一批黄牛来！<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;二人各自拿着一杯奶茶，恶狠狠地插入吸管，这个黄牛居然还在一旁指点他们。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“两位帅哥，不是这么喝的，那个小口要打开来，上面有芝士奶盖的，直接用吸管喝不到。”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;许劭和裴言：“”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;妈的，喝个奶茶还讲究上了是吧？<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;但还别说，这些黄牛都是【柚茶】的铁粉嘞。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;没办法，这可是咱们的摇钱树，程逐就是他们的财神爷。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;许劭懒得理他，他非要直接用吸管喝。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;裴言看着他，也开始有样学样。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;二人一边喝着奶茶，一边向前走去，远离这个逼话太多的黄牛。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;喝了几口后，他俩忍不住又对视了一眼，各自从对方的眼眸里读出了同样的信息。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“味道还可以。”裴言说着。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;还可以是他这张嘴里能给出的最高评价了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;确实和校门口的奶茶完全不一样。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“嗯。”许劭点了点头。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;最终，他们都把那个小口给打开了，开始喝起了芝士奶盖。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;一瞬间，口感就觉得更不一样了！<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;二人就这样一路边走边喝，越喝越沉默，越喝越沉默<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;店内，程逐把店长王薇给叫出来稍微聊了几句。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他这几天都在让王薇着重观察一下那个叫林悦的女店员。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;程逐有意要培养一下她。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他觉得这个小姑娘挺有想法的，不应该在店里当店员，而是该加入新品研发团队。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;芝芝莓莓的茶底就是她改良的，脑子挺灵活的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;高端网红奶茶行业，程逐现在确实是先驱者。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他是当前最早进场的，也等于是在凭借一己之力开拓市场。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他在自己开创一条崭新的赛道。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;然而，等到你把市场开拓出来了，肯定会有越来越多的人加入到这条赛道上。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;以后啊，注定也会越来越内卷。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;而不断推出的新品，在这种时候就会越来越重要。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;程逐记得竞争最激烈的时候，每个月各大品牌都会推好几款新品出来。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;从草莓、葡萄、芒果之类的大众水果开始卷，然后直接卷到了一些小众水果上，比如芭乐之类的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;大家都是在试，要新品上市后，通过市场的反馈去了解大众的接受度。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;程逐倒是不需要，他清楚哪几款会爆，这便是他最大的优势之一。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;奶茶的制作真的不难，难在创新，难在营销。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他现在只推出芝芝莓莓和烤黑糖波波牛乳茶这两款产品，是有自己的规划的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;后续肯定还是要陆陆续续推出新品的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;与王薇聊了几句后，他就看到309寝室的三名义子兴冲冲地回来了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;董冬好像满血复活了，整个人不再是灰色的，恢复了往日里的色彩。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“咋啦，看了下美女就这么开心了？”程逐笑着问。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“逐哥，老董这个不要脸的家伙，刚刚去找人要微信了，还真被他给加上了。”刘枫说道。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“这有什么，当初朱盈盈我不是也在学校的路上加的吗？我如果当初没加朱盈盈，两个寝室能联谊？老郑能有机会认识关佳悦？”董冬作为309寝室的寝室长，还开始得意上了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“懂不懂什么叫理工大学最强寝室长？搞不出寝室联谊的寝室长都是废物！”董冬尾巴都要翘起来了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;程逐扫了他一眼，问道：“哪加的？排队的队伍里？”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“对啊，逐哥你别一直往那边看！诶！就是你正对面那个穿白色羽绒服的！诶，逐哥，别看了别看了！”董冬还开始不好意思了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;程逐收回目光，对董冬道：“冬啊，下次加了妹子之后，不要立刻来我边上，懂吗？”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“啊？什么意思？”他略感费解。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;刘枫在边上秒懂，立刻大笑道：“你如果加了个女孩，然后立刻看到她身边的闺蜜更漂亮，你会怎么样？”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“嗯？”董冬反应了好一会儿才反应过来：“卧槽！”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;但问题在于程逐确实比他帅得多，个子也比他高，他妈的不服不行。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;此刻，一向话语很少的闷骚郑青峰，倒是很难得的话多了一些。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“逐哥，我们刚刚看到很多黄牛。”他对程逐说。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;老郑本来就显老，十八岁的年纪看着跟快四十八似的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;他是觉得这或许对逐哥的店不利，所以对此还很关心，眉头都皱起来了，结果抬头纹更深了，看着更老了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;郑青峰这人本质挺好的，家里虽然有钱，但人也低调，不像董冬那样张扬。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;而且他对于身边的朋友也确实挺关心的。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;这人就是太闷骚了，话太少了。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;真以为高冷男很有吸引力呢。<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;程逐闻言，笑着拍了拍他的肩膀：“无所谓，随他们去吧。”<br />
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;“这些黄牛啊，以后有大用处。”他说。<br /><div align="center" style="color: red">www.2biqu.com 笔趣阁</div>
+                    </div>
+                    <a href="javascript:;" onclick="javascript:addBookMark();" class="btn-addbs">『加入书签，方便阅读』</a>
+                    <div class="section-opt m-bottom-opt" style="margin: 0px; top: 0">
+
+                        <a href="36887003.html">上一章</a>
+
+                        <span class="xs-hidden">← </span>
+                        <a href="https://www.2biqu.com/biqu71153/">章节列表</a>
+                        <span class="xs-hidden">→</span>
+
+                        <a href="36889894.html">下一章</a>
+
+                        <a rel="nofollow" href="javascript:;" onclick="addBookCase();">加入书架</a>
+                        <a href="javascript:;" class="xs-hidden" onclick="addBookCase();">加入书签</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="/static/js/novel.js"></script>
+    <script language="javascript">getset()</script>
+    <script language="javascript">getset1()</script>
+    <div class="btn-fb"></div>
+    <div class="hotcmd-wp">
+        <div class="cmd-hd"><i></i><span>热门推荐</span><i></i></div>
+        <div class="cmd-bd">
+            <a href="https://www.2biqu.com/biqu104/" class="item">读档九八</a>
+            <a href="https://www.2biqu.com/biqu18415/" class="item">刁蛮千金斗恶少</a>
+            <a href="https://www.2biqu.com/biqu1046/" class="item">万相之王</a>
+            <a href="https://www.2biqu.com/biqu5398/" class="item">皓玉真仙</a>
+            <a href="https://www.2biqu.com/biqu5251/" class="item">宿命之环</a>
+            <a href="https://www.2biqu.com/biqu2986/" class="item">深空彼岸</a>
+
+        </div>
+    </div>
+
+    <div class="footer" id="footer">
+        <div class="pc-footer">
+            <p>本站所有小说为转载作品，所有章节均由网友上传，转载至本站只是为了宣传本书让更多读者欣赏。</p>
+            <p>笔趣阁 www.2biqu.com</p>
+        </div>
+        <div class="m-footer">
+            <a href="/">首页</a>
+            <a href="/modules/article/bookcase.php" rel="nofollow">我的书架</a>
+            <a href="/history.html" rel="nofollow">阅读记录</a>
+            <!--<a href="#">客户端</a>-->
+            <a href="#">顶部↑</a>
+        </div>
+    </div>
+    <script>
+				(function () {
+					var bp = document.createElement('script');
+					var curProtocol = window.location.protocol.split(':')[0];
+					if (curProtocol === 'https') {
+						bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+					}
+					else {
+						bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+					}
+					var s = document.getElementsByTagName("script")[0];
+					s.parentNode.insertBefore(bp, s);
+				})();
+    </script>
+    <script src="https://cdn.bootcss.com/sweetalert/0.5.0/sweet-alert.min.js"></script>
+    <script>
+    function check() {
+        var keyWord = $("#keyWord").val().trim();
+        if (keyWord == "" || keyWord == null || keyWord == undefined) {
+            swal({
+                title: "请输入正确的信息！",
+                type: "warning",
+            });
+        } else {
+            $("#form").submit();
+        }
+    }
+    function winSetHP() {
+        var name = document.title;
+        if (document.all) {
+            document.body.style.behavior = 'url(#default#homepage)';
+            document.body.setHomePage(name);
+        } else {
+            swal({
+                title: "提示",
+                text: '浏览器不支持此操作, 请手动设为首页'
+            });
+        }
+    }
+    function winAddFav() {
+        var domain = window.location.href;
+        var name = document.title;
+        try {
+            window.external.addFavorite(domain, name);
+        } catch (e) {
+            try {
+                window.sidebar.addPanel(name, domain, '');
+            } catch (e) {
+                swal({
+                    title: "提示",
+                    text: '加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置'
+                });
+            }
+        }
+    }
+    function loginbtn() {
+        var domain = window.location.href;
+        $.post("/login.php", { 'action': 'login', 'username': $("#small-username").val(), 'password': $("#small-password").val(), usecookie: "60000" },
+            function (result) {
+                window.location.reload();
+            })
+    }
+    </script>
+    <div style="display:none;">
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b1f1cdea3b4cf4604cb8940d5d2ce1a7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+        </script>
+
+    </div>
+
+    <div class="xs-hidden">
+        <script type="text/javascript" src="/static/js/pc-novel.js"></script>
+    </div>
+    <script>
+    function addBookMark() {
+        var bookId = 71153;
+        var chapterId = 36889891;
+        var chapterName = " 第二百九十八章 味道......还行？";
+        $.post("/modules/article/addbookcase.php", { action: "addbookmark", bid: bookId, cid: chapterId, chapterName: chapterName },
+            function (data) {
+                //var data = JSON.parse(data);
+                var text = '已添加到书架';
+                if(jieqiUserId<1) text = '请先登录';
+                swal({
+                    title: "提示",
+                    text: text,
+                    timer:1000
+                });
+            })
+    }
+
+    if (typeof addHit != 'undefined' && addHit instanceof Function)
+        addHit(71153);
+
+    if (typeof addBookMarkByJs != 'undefined' && addBookMarkByJs instanceof Function)
+        addBookMarkByJs(36889891, 71153, ' 第二百九十八章 味道......还行？','逼我重生是吧','幼儿园一把手');
+
+    $(window).resize(function () {
+        var winWidth = $(window).width()
+        if (winWidth < 980 && $('.m-setting').length) {
+            $('body').attr('id', 'reader-m-fix');
+        } else {
+            $('body').attr('id', '');
+        }
+    }).resize()
+    </script>
+    <script language="javascript">
+    document.onkeydown = keypage
+    var prevpage = "36887003.html"
+
+    var nextpage = '36889894.html'
+
+    var index_page = "./"
+    function keypage() {
+        if (event.keyCode == 37) location = prevpage
+        if (event.keyCode == 39) location = nextpage
+        if (event.keyCode == 13) document.location = index_page
+    }
+    </script>
+
+</body>
+</html>
